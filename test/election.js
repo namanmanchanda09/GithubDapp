@@ -25,9 +25,11 @@ contract("Election",function (accounts) {
 
 
         });
-
-
     });
+
+
+
+
 
 });
 
